@@ -23,16 +23,15 @@ tar -xvzf geckodriver-v0.30.0-linux64.tar.gz
 sudo cp geckodriver /usr/local/bin 
 ```
 
-### Create Presearch account and set firefox default. 
+### Create Presearch account and save to firefox profile. 
 
 1. [(Crtl+Click) Create Presearch.org account](https://presearch.org/signup?rid=3692934) - make sure the account save in your firefox default.
-2. [Do manual first search on Presearch.org](https://presearch.org/signup?rid=3692934)-Important, First time, even you login on the presearch home page, you account will be connected during searching then you cannot get PRE token reward. 
+2. [Do manual search on Presearch.org at first](https://presearch.org/signup?rid=3692934)-Important, First time, even you login on the presearch home page, you account will be connected during searching then you cannot get PRE token reward. 
+3. Check your firefox profile
+4. Modify the code of firefox profile which can point to yours. 
+5. Save & Run
 
-
-
-***
 ```
-sudo apt-get install python-pip
-python -m pip install selenium
+python xxxxxxxx.py
 ```
-***
+
