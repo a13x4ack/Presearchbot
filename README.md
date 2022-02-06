@@ -1,7 +1,11 @@
 # Presearch-bot
 
+- [What is Presearch](https://www.presearch.io/)  
+- [Create your Presearch.org account](https://presearch.org/signup?rid=3692934)
+
+---
 ### Hi there,  
-### Presearch-bot is designed for automatically search Presearch.org for PRE token on firefox and Linux (Kali).
+### Presearch-bot is designed for automatically search Presearch.org for PRE coin/token on firefox and Linux (Kali).
 
 ![image](https://github.com/a13x4ack/Presearch-bot/blob/main/PresearchBot.gif)
 
@@ -47,7 +51,7 @@ cd ~/.mozilla/firefox && ls -a
 python presearchbot.py
 ```
 
-### Advance & Other)
+### Advance & Other
 1. You can do your own dynamic searchlist.txt let the whole process looks like human being.   
 2. You can use different firefox profiles for multi-account for multi-process to maximize your profit. As my experience. There is no problem earning up to 600 PRE per day(approx.US 120).
 
