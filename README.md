@@ -14,6 +14,15 @@ python -m pip install selenium
 ```
 
 3. [Install Geckodriver](https://github.com/mozilla/geckodriver/releases)
+* I downloaded - [geckodriver-v0.30.0-linux64.tar.gz](https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-linux64.tar.gz)
+4. Extract Geckodriver & move to Bin folder
+```
+tar -xvzf geckodriver-v0.30.0-linux64.tar.gz
+```
+```
+sudo cp geckodriver /usr/local/bin 
+```
+
 
 
 
