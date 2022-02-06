@@ -25,8 +25,9 @@ sudo cp geckodriver /usr/local/bin
 
 ### Create Presearch account and set firefox default. 
 
-1. [(Crtl+Click)Create Presearch.org account](https://presearch.org/signup?rid=3692934) - make sure the account save in your firefox default.
-2. 
+1. [(Crtl+Click) Create Presearch.org account](https://presearch.org/signup?rid=3692934) - make sure the account save in your firefox default.
+2. [Do manual first search on Presearch.org](https://presearch.org/signup?rid=3692934)-Important, First time, even you login on the presearch home page, you account will be connected during searching then you cannot get PRE token reward. 
+
 
 
 ***
