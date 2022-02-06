@@ -1,7 +1,9 @@
 # Presearch-bot
 
 Hi there,  
-This script is used to automatically search Presearch.org on firefox and Linux (Kali) to earn PRE token.
+This script is used to automatically search Presearch.org for PRE token on firefox and Linux (Kali).
+
+![image](https://github.com/a13x4ack/Presearch-bot/blob/main/PresearchBot.gif)
 
 ---
 ### Build environmennt.
@@ -34,6 +36,6 @@ sudo cp geckodriver /usr/local/bin
 5. Save & Run
 
 ```
-python xxxxxxxx.py
+python presearchbot.py
 ```
 
