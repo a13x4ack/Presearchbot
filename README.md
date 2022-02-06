@@ -47,9 +47,9 @@ cd ~/.mozilla/firefox && ls -a
 python presearchbot.py
 ```
 
-### Advance & Others
+### Advance & Other)
 1. You can do your own dynamic searchlist.txt let the whole process looks like human being.   
-2. You can use different firefox profiles for multi-account for multi-process to maximize your profit. As my experience. There is no problem earning up to 600 PRE per day.
+2. You can use different firefox profiles for multi-account for multi-process to maximize your profit. As my experience. There is no problem earning up to 600 PRE per day(approx.US 120).
 
 Enjoy.
 
