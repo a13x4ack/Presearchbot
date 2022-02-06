@@ -23,15 +23,11 @@ tar -xvzf geckodriver-v0.30.0-linux64.tar.gz
 sudo cp geckodriver /usr/local/bin 
 ```
 
+### Create Presearch account and set firefox default. 
 
+1. [(Crtl+Click)Create Presearch.org account](https://presearch.org/signup?rid=3692934) - make sure the account save in your firefox default.
+2. 
 
-
-
-
-
-
-1. Create Presearch.org account :  https://presearch.org/signup?rid=3692934 
-2. Install Selenium`: 
 
 ***
 ```
